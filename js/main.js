@@ -14,3 +14,10 @@ document.querySelector('h1').style.color = "yellow";
 
 document.querySelector('.button').style.backgroundColor = "orange";
 //can target a class. Remember to use camelCase syntax when targetting stuff - backgroundColor
+
+console.log(2 + 5);
+console.log(2 * 5);
+console.log(2 - 5);
+console.log(2 / 5);
+console.log ("Code" + " Like a Girl");
+console.log(codingBoss);
